@@ -39,6 +39,10 @@ Using the Dockerfile one could build the image and host it on gcloud. This allow
 
 [Building containers](https://cloud.google.com/run/docs/building/containers#buildpacks)
 
+```
+Feel free to reach out if you are looking for exact cmds
+```
+
 
 
 
