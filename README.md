@@ -36,6 +36,7 @@ Alternatively build the docker image and run it as a container.
 Using the Dockerfile one could build the image and host it on gcloud. This allows you to generate the image through an API call. It's pretty straight forward and the cmds are avialble in google's documentation.
 
 [Installing and configuring gcloud cli](https://cloud.google.com/sdk/docs/install)
+
 [Building containers](https://cloud.google.com/run/docs/building/containers#buildpacks)
 
 
