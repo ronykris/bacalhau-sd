@@ -43,6 +43,14 @@ Using the Dockerfile one could build the image and host it on gcloud. This allow
 Feel free to reach out if you are looking for exact cmds
 ```
 
+### Result:
+
+The cmd above will return the below JSON
+```
+[{"jobID":"e3885c52-237d-43ce-8149-c98af9ffe9f1","CID":"QmS9GJL211n6KEdrJnUzvrLmbCdiJdQfSa2if2ckuavJ2p","url":"https://ipfs.io/ipfs/QmS9GJL211n6KEdrJnUzvrLmbCdiJdQfSa2if2ckuavJ2p/outputs/image0.png"}]
+```
+
+ 
 
 
 
